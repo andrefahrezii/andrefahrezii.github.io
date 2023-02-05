@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
+  <a href="#">
+    <img src="images/output-onlinepngtools&20500.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
@@ -18,15 +18,15 @@
   <p align="center">
     <strong>Dimas & FIra</strong>
     <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <a href="#">Explore the Invitation ! »</a>
     <br />
     <br />
     <!-- <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
     ·
     <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a> -->
-    <a href="https://github.com/rayhanyulanda">Arya Dimas Marki</a>
+    <a href="#">Arya Dimas Marki</a>
     ·
-    <a href="https://github.com/maulidannashuha">Fira Jayanti</a>
+    <a href="#">Fira Jayanti</a>
   </p>
 </div>
 
@@ -40,6 +40,7 @@
 - Health protocol
 - RSVP with issue API
 - Music from youtube API
+- Add Fiture Undangan BY Params  (Andre Fahrezi)
 
 <!-- The wedding -->
 ## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
@@ -75,20 +76,15 @@ Reach me around the web :
 
 
 
-Reach me around the web :
+Added Shrimp Feature :
 
-<a href="https://linkedin.com/in/rayhanyulanda">
-  <img alt="Rehan's Linkdein" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
-</a>
-<a target="_blank" href="https://github.com/rayhanyulanda">
-<img alt="Rehan's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
-</a>
-<a target="_blank" href="https://www.facebook.com/rayhanyulanda/">
-<img alt="Rehan's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
-</a>
-<a target="_blank" href="https://medium.com/@rayhanyulanda">
-<img alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
-</a>
+<a href="https://www.linkedin.com/in/andrefahrezi/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.github.com/andrefahrezii/" target="_blank">
+<img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
+<a href="https://www.instagram.com/andrefahrezii/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
