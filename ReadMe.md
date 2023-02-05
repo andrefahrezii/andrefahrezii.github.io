@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/output-onlinepngtools&20500.png" alt="Logo" width="120" height="120">
+    <img src="images/output-onlinepngtools%20500.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
@@ -72,7 +72,7 @@ Reach me around the web :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
+## Andre Fahrezi <img src="images/readme/man.png" width="30px">
 
 
 
