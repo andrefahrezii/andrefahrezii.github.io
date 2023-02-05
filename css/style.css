@@ -568,7 +568,7 @@ figure {
 
 #overlay {
   background: #ffffff;
-  background-image: url("../images/overlay.JPG");
+  background-image: url("../images/overlay.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
