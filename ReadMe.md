@@ -41,6 +41,7 @@
 - RSVP with issue API
 - Music from youtube API
 - Add Fiture Undangan BY Params  (Andre Fahrezi)
+- contoh = {{base_url}}/?to=andre+dan+partner 
 
 <!-- The wedding -->
 ## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
