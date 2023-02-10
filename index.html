@@ -749,7 +749,9 @@
 	$('#open-invitation').click(function (){
 		$('#overlay').addClass('hide-overlay');
 		playAudio1();
-		togglePlayButton1();
+		function togglePlayButton1(play) {
+		document.getElementById("youtube-icon1").src = play ? "https://i.imgur.com/IDzX9gL.png" : "https://i.imgur.com/quyUPXN.png";
+	}
 		/*yang bagian floating button ada animasinya tapi karena ketutup dulu sama overlay jadinya gak nampak*/
 		/*pengen pas di klik buka undangan baru jalan animasinya*/
 		/*var c = document.getElementsByClassName('right-sidebar');
